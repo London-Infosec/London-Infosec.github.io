@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 {% seo %}
 
 
@@ -9,9 +13,6 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
----
-layout: default
----
 
 Welcome to London Infosec! We are a consortium of academics in London (and our friends/collaborators elsewhere in UK, and all over the world) working on Infosec.
 
