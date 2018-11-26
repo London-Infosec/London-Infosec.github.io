@@ -23,3 +23,5 @@ You can join our resources if you have a *.ac.uk email address, or if you know s
 <h2 id="steering-previous"> Steering committee (Past members) </h2>
 
 * [Jeremiah Onaolapo](http://www0.cs.ucl.ac.uk/staff/J.Onaolapo/) (University College London) Jan--Sep 2018.
+
+{% seo %}
