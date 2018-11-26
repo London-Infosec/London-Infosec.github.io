@@ -1,5 +1,7 @@
 # encoding: utf-8
 
+gem 'jekyll-seo-tag'
+
 Gem::Specification.new do |s|
   s.name          = "jekyll-theme-dinky"
   s.version       = "0.1.0"
