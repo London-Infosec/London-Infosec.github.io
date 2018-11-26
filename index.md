@@ -1,4 +1,5 @@
 {% seo %}
+<link rel="shortcut icon" href="favicon.ico">
 
 ---
 layout: default
