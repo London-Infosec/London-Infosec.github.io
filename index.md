@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% seo %}
-
 
 Welcome to London Infosec! We are a consortium of academics in London (and our friends/collaborators elsewhere in UK, and all over the world) working on Infosec.
 
