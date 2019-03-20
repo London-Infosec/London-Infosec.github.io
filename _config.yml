@@ -1,9 +1,4 @@
-title: London Infosec
-description: A group of London academics (& friends) working on Infosec.
+title: London Infosec homepage
+description: London Infosec people (academia & industry).
 show_downloads: true
 theme: jekyll-theme-dinky
-logo: /assets/red-logo.jpg
-url: https://london-infosec.github.io/
-author: London Infosec
-plugins:
-  - jekyll-seo-tag
