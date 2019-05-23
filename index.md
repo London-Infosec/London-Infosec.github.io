@@ -21,6 +21,7 @@ We have a mailing-list and a Slack channel. At the moment, the mailing-list is q
 * [Katherine Fletcher](https://www.cs.ox.ac.uk/people/katherine.fletcher/) (University of Oxford)
 * [Alice Hutchings](https://www.cl.cam.ac.uk/~ah793/) (University of Cambridge)
 * [Patrick McCorry](http://www0.cs.ucl.ac.uk/staff/P.McCorry/) (King's College London)
+* [Yves-Alexandre de Montjoye](http://www.demontjoye.com/) (Imperial College London)
 <h2 id="steering-previous"> Steering committee (Past members) </h2>
 
 * [Jeremiah Onaolapo](http://www0.cs.ucl.ac.uk/staff/J.Onaolapo/) (University College London) Jan--Sep 2018.
